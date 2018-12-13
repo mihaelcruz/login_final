@@ -1,6 +1,6 @@
 {
   "name": "login_final_mihael",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Archivo css para login html",
   "main": "login_final.css", 
   "scripts": {
