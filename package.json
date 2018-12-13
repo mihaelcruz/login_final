@@ -1,0 +1,25 @@
+{
+  "name": "login_final_mihael",
+  "version": "1.0.0",
+  "description": "Archivo css para login html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaelcruz/login_final.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "login",
+    "npm"
+  ],
+  "author": "Mihael Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihaelcruz/login_final/issues"
+  },
+  "homepage": "https://github.com/mihaelcruz/login_final#readme"
+}
