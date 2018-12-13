@@ -1,15 +1,27 @@
 # login_final
 Proyecto final de Gestión de Paquetes
 <hr>
-##Dirección NPM
+
+## Dirección NPM
 https://www.npmjs.com/package/login_final_mihael
+Para instalar el paquete mediante npm
+
+```
+npm install login_final_mihael
+```
+
+
 <hr>
-##Version beta funcional 1.1.2 beta.3
+
+## Version beta funcional 1.1.2 beta.3
+
+
 <hr>
-##Codigo ejemplo para usar el archivo css
----html
-<!DOCTYPE html>
- <html lang="en">
+
+## Codigo HTML (index.html) ejemplo para usar el archivo css
+
+```html
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -28,4 +40,7 @@ https://www.npmjs.com/package/login_final_mihael
   </form>
 </body>
 </html>
----
+```
+
+
+## Licencia MIT

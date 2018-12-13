@@ -56,7 +56,9 @@ body {
   width: 270px;
   line-height: 43px;
   margin: 50px auto 20px;
-  text-align:center;
+  font-size: 19px;
+  font-weight: 500;
+  text-align: center;
   }
 
 .titulo-login{
@@ -67,6 +69,8 @@ body {
   margin: 0 auto;
   width: 230px;
   padding: 20px;
+  background: #f4f4f4;
+  border-radius: 3px;
 }
 
 input {
@@ -83,8 +87,14 @@ input {
   width: 100%;
   height: 38px;
   margin-top: 2px;
+  font-weight: 500;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid #d8d8d8;
 }
 .entrada-datos:focus {
+  border-color: #1e9ce6;
+  outline: 0;
 }
 
 .boton {
@@ -96,12 +106,20 @@ input {
   font-weight: bold;
   color: #494d59;
   text-align: center;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
+  background: #fcfcfc;
+  border: 1px solid;
 }
 .boton:active {
   background: #eee;
   border-color: #c3c3c3 #d1d1d1 #d8d8d8;
+  background-image: -webkit-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: -o-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: linear-gradient(to bottom, #eeeeee, #fcfcfc);
+  -webkit-box-shadow: inset 0 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.03);
 }
 .boton:focus {
   outline: 0;
 }
-
