@@ -2,7 +2,7 @@
   "name": "login_final_mihael",
   "version": "1.0.0",
   "description": "Archivo css para login html",
-  "main": "index.js",
+  "main": "login_final.css", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
